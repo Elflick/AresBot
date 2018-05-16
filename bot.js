@@ -48,4 +48,4 @@ Client.on('guildMemberAdd', member => {
     member.addRole(role)
 })
 
-Client.login("process.env.BOT_TOKEN") // Token
+Client.login("process.env.NDQ1OTgyMDkwMzI1MTMxMjY3.Dd328w.gLNXQi66eyy0i58yuWHMjPvX6LU") // Token
