@@ -1,0 +1,2 @@
+# AresBot
+Bot français multifonction
